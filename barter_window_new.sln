@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barter_window_new", "barter_window_new\barter_window_new.csproj", "{D90CC762-CB45-4F30-A98B-60824BE9219D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{AD3CCF61-19FA-4285-89F5-31E29CA73584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90CC762-CB45-4F30-A98B-60824BE9219D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90CC762-CB45-4F30-A98B-60824BE9219D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90CC762-CB45-4F30-A98B-60824BE9219D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90CC762-CB45-4F30-A98B-60824BE9219D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3CCF61-19FA-4285-89F5-31E29CA73584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3CCF61-19FA-4285-89F5-31E29CA73584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3CCF61-19FA-4285-89F5-31E29CA73584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3CCF61-19FA-4285-89F5-31E29CA73584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2829BEBD-6AD7-41C5-A54F-B2981BE886D1}
+	EndGlobalSection
+EndGlobal
